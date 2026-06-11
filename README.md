@@ -1,34 +1,27 @@
-If you mean Spur Gear (not "Sprue gear"), here's a simple explanation:
+# Spur Gear 3D CAD Model
 
-Spur Gear
+## Overview
+This project presents a detailed 3D CAD model of a Spur Gear developed as part of **Task 1: 3D CAD Model Creation** for the **Mechanical Design & Simulation Internship at CodeAlpha**. The model was created using Fusion 360 and SolidWorks following standard engineering design practices.
 
-A spur gear is the most common type of gear used to transmit motion and power between two parallel shafts. It has straight teeth that are cut parallel to the axis of rotation.
+## Description
+A spur gear is one of the most widely used mechanical components for transmitting motion and power between parallel shafts. It consists of straight teeth cut parallel to the axis of rotation, ensuring efficient and reliable power transmission.
 
-Features
-
-Straight teeth parallel to the shaft.
-
-Used for transmitting power between parallel shafts.
-
-Simple design and easy to manufacture.
-
-High efficiency (about 95–99%).
-
-Produces more noise at high speeds compared to helical gears.
+## Objectives
+- To create an accurate 3D CAD model of a spur gear.
+- To understand gear geometry and power transmission mechanisms.
+- To improve CAD modeling skills using industry-standard software.
+...
 
 
-Applications
 
-Gearboxes
+## Author
+Md Sahid
 
-Clocks and watches
+Mechanical Engineering Student
 
-Conveyors
+CodeAlpha Mechanical Design & Simulation Internship
 
-Automobiles
-
-Machine tools
-
+Task 1: 3D CAD Model Creation
 Industrial machinery
 
 
